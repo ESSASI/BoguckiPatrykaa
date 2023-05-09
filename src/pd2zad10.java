@@ -9,7 +9,7 @@ public class pd2zad10 {
         System.out.print("Wprowadz ilosc gramow tluszczu");
         double tluszcz = wprowadz.nextDouble();
 
-        double kalorie
+        double kalorie;
         double tluszczwgramie = tluszcz * 9;
 
 
